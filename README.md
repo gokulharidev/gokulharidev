@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gokulharidev
 - 👀 I’m interested in RPA, AI and cryptography.
-- 🌱 I’m currently learning RPA.
+- 🌱 I’m currently learning AI.
 - 📫 This is my linkedln profile linkedin.com/in/gokul-hari-39b586240
 - 😄 Pronouns: he/him
 - 😍 I'm exicted to collaborate with github community.
