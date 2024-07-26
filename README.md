@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gokulharidev
-- 👀 I’m interested in RPA, AI and cryptography.
+- 👀 I’m interested in Automation, AI and data analysis.
 - 🌱 I’m currently learning AI.
 - 📫 This is my linkedln profile linkedin.com/in/gokul-hari-39b586240
 - 😄 Pronouns: he/him
